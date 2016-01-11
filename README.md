@@ -10,3 +10,9 @@ Following endpoints of Social network are implemented in this API :
  - Albums
 
 Complete documentation : Doc.pdf in this repository
+
+
+
+
+
+Thanks to DanielaSfregola for https://github.com/DanielaSfregola/quiz-management-service/tree/master/tutorial-1
